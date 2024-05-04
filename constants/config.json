@@ -1,0 +1,9 @@
+{
+    "port": 4545,
+    "websiteUrl": "http://localhost:4545",
+    "mongoUrl": "mongodb+srv://encikcryptonite:<password>@cluster0.vstd3yo.mongodb.net/?retryWrites=true&w=majority",
+    "encryptKey": "KSFNBRYVSDBRGG12498941314190",
+    "multifactorKey": "VNIORGWOIJGR382309svsvs",
+    "apiUrl": "http://localhost:4545",
+    "AuthKey": "KSFNKSFNBRYVSDBRGG1BRYVSDBRGG1"
+}
